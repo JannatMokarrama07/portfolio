@@ -1,4 +1,8 @@
-# Data Scientist
+# Hi, 
+
+This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at Northern Illinois University. Currently, I am working at the DATA Lab with Dr. Hamed Alhoori. My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
+
+My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art Natural Language Processing(NLP) techniques, Machine Learning algorithms, Large Language Models (LLMs), and statistical methods. 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
