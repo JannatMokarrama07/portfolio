@@ -17,10 +17,12 @@ Graduate Research Assistant: Northern Illinois University (Spring 2024 - Present
 - Graded weekly quizzes and assignments, evaluated term-exam answer scripts/projects of 500+ students.
 - Held office hours to mentor students in better understanding the topics.
 - Provided one-to-one constructive feedback in-person/online as per their performance.
+  
 **Graduate Research Assistant @ Northern Illinois University (_Spring 2024 - Fall 2024_, _Summer 2022_, _Summer 2023_)**
 - Drafted, published, and presented research papers in several conferences on youth research uptakes in the US policy.
 - Assisted in investigating project use-cases, modeling research, and organizing writing for a grant proposal to **NSF** on research policy gaps.
 - Increased model performance from 50% to 75% utilizing several readability and lexical diversity metrics for classifying policy citations.
+  
 **Lecturer @ Department of Computer Science and Engineering, Port City International University (PCIU), Chittagong, Bangladesh (_July 2017 - July 2021_)**
 - Designed course materials, syllabi, and lesson plans and delivered lectures, tutorials, and laboratory sessions.
 - Faculty Advisor @ _PCIU Computer Club_
