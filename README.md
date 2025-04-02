@@ -1,6 +1,6 @@
 # Hi!
 <p align="justify">
-This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a>. Currently, I am working at the DATA Lab with <a href="https://alhoori.github.io/">Dr. Hamed Alhoori</a>. My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
+This is <i>Miftahul Jannat Mokarrama</i>, a Computer Science Ph.D. student at <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a>. Currently, I am working at the DATA Lab with <a href="https://alhoori.github.io/">Dr. Hamed Alhoori</a>. My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
 
 My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art <b><i>Natural Language Processing(NLP) Techniques</i></b>, <b><i>Machine Learning Algorithms</i></b>, <b><i>Large Language Models (LLMs)</i></b>, and <b><i>Statistical Methods</i></b>. </p>
 
