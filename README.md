@@ -4,15 +4,15 @@ This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at Northern 
 
 My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art **Natural Language Processing(NLP) Techniques**, **Machine Learning Algorithms**, **Large Language Models (LLMs)**, and **Statistical Methods**. 
 
-### Technical Skills
+## Technical Skills
 
- #### Programming Languages: Python, SQL, C/C++, XML, PHP, HTML/CSS, Java-Script, Java, LATEX, Prolog
+ - _Programming Languages_: Python, SQL, C/C++, XML, PHP, HTML/CSS, Java-Script, Java, LATEX, Prolog
 
- #### Libraries/Frameworks: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Gensim, Spacy, NLTK, Keras, PyTorch, TensorFlow
+ - _Libraries/Frameworks_: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Gensim, Spacy, NLTK, Keras, PyTorch, TensorFlow
 
- #### Tools/IDEs: Git/GitHub, Unix Shell, Notebooks (Jupyter/Observable), PyCharm, CodeBlocks/Dev C++/Netbeans, Android Studio, SWI-Prolog, Tableau
+ - _Tools/IDEs_: Git/GitHub, Unix Shell, Notebooks (Jupyter/Observable), PyCharm, CodeBlocks/Dev C++/Netbeans, Android Studio, SWI-Prolog, Tableau
 
- #### Database: MySQL, PostgreSQL, SQLite, DuckDB
+ - _Database_: MySQL, PostgreSQL, SQLite, DuckDB
 
 ## Education
 - Ph.D., Computer Science | Northern Illinois University (_August 2021 - present_)							
