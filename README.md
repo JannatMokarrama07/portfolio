@@ -6,13 +6,13 @@ My long-term goal is to work to reduce the gap between researchers and policymak
 
 ## Technical Skills
 
- - _Programming Languages_: Python, SQL, C/C++, XML, PHP, HTML/CSS, Java-Script, Java, LATEX, Prolog
+ - _Programming Languages_: Python, SQL, C/C++, XML, PHP, HTML/CSS, Java-Script, Java, LATEX, Prolog.
 
- - _Libraries/Frameworks_: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Gensim, Spacy, NLTK, Keras, PyTorch, TensorFlow
+ - _Libraries/Frameworks_: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Gensim, Spacy, NLTK, Keras, PyTorch, TensorFlow.
 
- - _Tools/IDEs_: Git/GitHub, Unix Shell, Notebooks (Jupyter/Observable), PyCharm, CodeBlocks/Dev C++/Netbeans, Android Studio, SWI-Prolog, Tableau
+ - _Tools/IDEs_: PyCharm, VS Code, Git/GitHub, Unix Shell, Notebooks (Jupyter/Observable).
 
- - _Database_: MySQL, PostgreSQL, SQLite, DuckDB
+ - _Database_: MySQL, PostgreSQL, SQLite, DuckDB.
 
 ## Education
 - Ph.D., Computer Science | Northern Illinois University (_August 2021 - present_)							
@@ -51,15 +51,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Talks
+- [LLMs as Judges](https://www.youtube.com/watch?v=lTf_vU7R2jM) - NIU AI/ML Workshop, Spring 2025.
+- Are Research Articles Cited in Relevant Policy Documents? A Quantitative Analysis - ICSSI'24, National Academy of Science, Washington, D. C.
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
@@ -72,4 +66,21 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Academic Services
+- Reviewer: ACL SDProc, IC2S2, COLING, WebSci, International Journal on Digital Libraries, The Journal of Supercomputing (_2024 - 2025_).
+- Judge: Engineering discipline, NIU Conference on Undergraduate Research & Engagement (_2024, 2025_).
+- Research Mentor: Undergraduate Research Rookie, DATA Lab, NIU (_August 2022 -  May 2023_).
+- Graduate Member: Student Advisory Board, Department of CS, NIU (_August 2022 -  December 2023_).
+- Student Volunteer (Online): RecSys 2022 (September 18-23, 2022).
+- Mentor: Q3 1:1 Mentoring Program (July 2022 - September 2022).
+
+## Latest News...
+- March 28, 2024: Presented a research topic on “LLMs as Judges,” a trending subject in the field of large language models in [NIU AI/ML Workshop](https://www.niuai.org/home). Check out the [Video!](https://www.youtube.com/watch?v=lTf_vU7R2jM)
+- Conducted a session on _Text Analysis_ in JCDL'24! 
+- October 19, 2024: Our paper 'Quantifying the Relevance of Youth Research Cited in the US Policy Documents”, 2024 IEEE International Conference on Big Data (BigData), co-authored by Dr. Hamed Alhoori, has been accepted for presentation as a **full paper** in the 2024 IEEE International Conference on Big Data (BigData'24). [Link](https://doi.org/10.1109/BigData62323.2024.10825004)
+- October 15, 2024: Our paper 'Examining the Representation of Youth in the US Policy Documents through the Lens of Research', co-authored by Abdul Rahman Shaikh, and Dr. Hamed Alhoori, has been accepted for presentation as a **short paper** in the _Industry Track_ in 2024 IEEE International Conference on Big Data (BigData'24). [Link](https://doi.org/10.1109/BigData62323.2024.10825996)
+- September 25, 2024: Our paper 'Building an Explainable Policy Citation Prediction Model on Textual Features of the Research Articles', co-authored by my supervisor Dr. Hamed Alhoori, has been accepted for presentation in the ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL'24). [Link](https://doi.org/10.1145/3677389.3702603)
+- April 26, 2024: Another work, "Are Research Articles Cited in Relevant Policy Documents? A Quantitative Analysis," was accepted as a contributed talk at the International Conference on the Science of Science and Innovation (ICSSI'24). Washington, DC, is calling!
+- April 18, 2024: Our work, "Examining the Representation of Youth in the US Policy Documents through the Lens of Research," was accepted as a contributed talk at the 10th International Conference on Computational Social Science (IC2S2'24). Excited to be in Philly!
+  
+ [Data Science Blog](https://medium.com/@shawhin)
