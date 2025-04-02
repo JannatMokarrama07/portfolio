@@ -56,26 +56,25 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Are Research Articles Cited in Relevant Policy Documents? A Quantitative Analysis - ICSSI'24, National Academy of Science, Washington, D. C.
 
 ## Publications
-<p align="justify">
-1. MJ Mokarrama, AR Shaikh, H Alhoori. Examining the Representation of Youth in the US Policy Documents
+1. <p align="justify"> MJ Mokarrama, AR Shaikh, H Alhoori. Examining the Representation of Youth in the US Policy Documents
 through the Lens of Research. <i>2024 IEEE International Conference on Big Data(BigData)</i>, Washington, DC, USA,
-2024, pp. 2355-2359. [Link](https://doi.org/10.1109/BigData62323.2024.10825996).
-2. MJ Mokarrama, H Alhoori. Quantifying the Relevance of Youth Research Cited in the US Policy Documents.
-<i>2024 IEEE International Conference on Big Data (BigData)</i>, Washington, DC, USA, 2024, pp. 5271-5280. [Link](https://doi.org/10.1109/BigData62323.2024.10825004).
-3. MJ Mokarrama, S Khatun, MS Arefin. A content-based recommender system for choosing universities. <i>Turkish
-Journal of Electrical Engineering & Computer Sciences</i>, vol. 28 (4), 2128-2142, 2020. [Link](https://doi.org/10.3906/elk-1911-37).
-4. MJ Mokarrama, MS Arefin. RSF: A recommendation system for farmers. <i>IEEE Region 10 Humanitarian
-Technology Conference (R10-HTC)</i>, 843-850, 2017, Dhaka, Bangladesh. [Link](https://doi.org/10.1109/R10-HTC.2017.8289086).
-5. AN Shihab, MJ Mokarrama,R Karim, S Khatun, MS Arefin. An IoT-Based Heart Disease Detection System
+2024, pp. 2355-2359. [Link](https://doi.org/10.1109/BigData62323.2024.10825996).</p>
+2. <p align="justify"> MJ Mokarrama, H Alhoori. Quantifying the Relevance of Youth Research Cited in the US Policy Documents.
+<i>2024 IEEE International Conference on Big Data (BigData)</i>, Washington, DC, USA, 2024, pp. 5271-5280. [Link](https://doi.org/10.1109/BigData62323.2024.10825004).</p>
+3. <p align="justify"> MJ Mokarrama, S Khatun, MS Arefin. A content-based recommender system for choosing universities. <i>Turkish
+Journal of Electrical Engineering & Computer Sciences</i>, vol. 28 (4), 2128-2142, 2020. [Link](https://doi.org/10.3906/elk-1911-37).</p>
+4. <p align="justify"> MJ Mokarrama, MS Arefin. RSF: A recommendation system for farmers. <i>IEEE Region 10 Humanitarian
+Technology Conference (R10-HTC)</i>, 843-850, 2017, Dhaka, Bangladesh. [Link](https://doi.org/10.1109/R10-HTC.2017.8289086).</p>
+5. <p align="justify"> AN Shihab, MJ Mokarrama,R Karim, S Khatun, MS Arefin. An IoT-Based Heart Disease Detection System
 Using RNN. <i>International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 535-545, 2020,
-Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 49).
-6. A Islam, MJ Mokarrama, MS Arefin, R Karim. Developing a Framework to Identify Potential Firms for Job
+Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 49).</p>
+6. <p align="justify"> A Islam, MJ Mokarrama, MS Arefin, R Karim. Developing a Framework to Identify Potential Firms for Job
 Assignment.<i> International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 584-593, 2020,
-Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 53).
-7. J Ferdows, S Khatun, MJ Mokarrama, MS Arefin. A Framework for Checking Plagiarized Contents in Programs
+Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 53).</p>
+7. <p align="justify"> J Ferdows, S Khatun, MJ Mokarrama, MS Arefin. A Framework for Checking Plagiarized Contents in Programs
 Submitted at Online Judging Systems.<i> International Conference on Image Processing and Capsule Networks</i>, vol.
-1200, 546-560, 2020, Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 50).
-8. MM Islam, MS Arefin, S Khatun, MJ Mokarrama, AM Mahi. Developing an IoT-Based Water Pollution
+1200, 546-560, 2020, Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 50).</p>
+8. <p align="justify"> MM Islam, MS Arefin, S Khatun, MJ Mokarrama, AM Mahi. Developing an IoT-Based Water Pollution
 Monitoring System.<i> International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 561-573,
 2020, Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 51). </p>
    
