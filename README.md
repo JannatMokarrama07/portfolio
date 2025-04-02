@@ -1,12 +1,12 @@
 # Hi!
 <p align="justify">
-This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at Northern Illinois University. Currently, I am working at the DATA Lab with [Dr. Hamed Alhoori](https://alhoori.github.io/). My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
+This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a>. Currently, I am working at the DATA Lab with [Dr. Hamed Alhoori](https://alhoori.github.io/). My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
 
-My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art **Natural Language Processing(NLP) Techniques**, **Machine Learning Algorithms**, **Large Language Models (LLMs)**, and **Statistical Methods**. </p>
+My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art **_Natural Language Processing(NLP) Techniques_**, **_Machine Learning Algorithms_**, **_Large Language Models (LLMs)_**, and **_Statistical Methods_**. </p>
 
 ## Technical Skills
 
- - _Programming Languages_: Python, SQL, C/C++, XML, PHP, HTML/CSS, Java-Script, Java, LATEX, Prolog.
+ - _Programming Languages_: Python, SQL, C/C++, XML, Java-Script, Java, PHP, HTML/CSS, LATEX, Prolog.
 
  - _Libraries/Frameworks_: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Gensim, Spacy, NLTK, Keras, PyTorch, TensorFlow.
 
@@ -27,7 +27,7 @@ My long-term goal is to work to reduce the gap between researchers and policymak
   
 **Graduate Research Assistant @ Northern Illinois University (_Spring 2024 - Fall 2024_, _Summer 2022_, _Summer 2023_)**
 - Drafted, published, and presented research papers in several conferences on youth research uptakes in the US policy.
-- <p align="justify"> Assisted in investigating project use-cases, modeling research, and organizing writing for a grant proposal to **NSF** on research policy gaps. </p>p
+- <p align="justify"> Assisted in investigating project use-cases, modeling research, and organizing writing for a grant proposal to **NSF** on research policy gaps. </p>
 - Increased model performance from 50% to 75% utilizing several readability and lexical diversity metrics for classifying policy citations.
   
 **Lecturer @ Department of Computer Science and Engineering, Port City International University (PCIU), Chittagong, Bangladesh (_July 2017 - July 2021_)**
@@ -54,32 +54,31 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ## Talks
 - [LLMs as Judges](https://www.youtube.com/watch?v=lTf_vU7R2jM) - NIU AI/ML Workshop, Spring 2025.
 - Are Research Articles Cited in Relevant Policy Documents? A Quantitative Analysis - ICSSI'24, National Academy of Science, Washington, D. C.
-
+  
 ## Publications
-1. <p align="justify"> MJ Mokarrama, AR Shaikh, H Alhoori. Examining the Representation of Youth in the US Policy Documents
+<p align="justify"> 1. MJ Mokarrama, H Alhoori. Building an Interpretable Policy Citation Prediction Model on Textual Features of
+the Research Articles. <i>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</i>, Dec 16-20, 2024, Hong Kong. <a href="https://doi.org/10.1145/3677389.3702603">Link.</a> </p>
+<p align="justify"> 2. MJ Mokarrama, AR Shaikh, H Alhoori. Examining the Representation of Youth in the US Policy Documents
 through the Lens of Research. <i>2024 IEEE International Conference on Big Data(BigData)</i>, Washington, DC, USA,
-2024, pp. 2355-2359. [Link](https://doi.org/10.1109/BigData62323.2024.10825996).</p>
-2. <p align="justify"> MJ Mokarrama, H Alhoori. Quantifying the Relevance of Youth Research Cited in the US Policy Documents.
-<i>2024 IEEE International Conference on Big Data (BigData)</i>, Washington, DC, USA, 2024, pp. 5271-5280. [Link](https://doi.org/10.1109/BigData62323.2024.10825004).</p>
-3. <p align="justify"> MJ Mokarrama, S Khatun, MS Arefin. A content-based recommender system for choosing universities. <i>Turkish
-Journal of Electrical Engineering & Computer Sciences</i>, vol. 28 (4), 2128-2142, 2020. [Link](https://doi.org/10.3906/elk-1911-37).</p>
-4. <p align="justify"> MJ Mokarrama, MS Arefin. RSF: A recommendation system for farmers. <i>IEEE Region 10 Humanitarian
-Technology Conference (R10-HTC)</i>, 843-850, 2017, Dhaka, Bangladesh. [Link](https://doi.org/10.1109/R10-HTC.2017.8289086).</p>
-5. <p align="justify"> AN Shihab, MJ Mokarrama,R Karim, S Khatun, MS Arefin. An IoT-Based Heart Disease Detection System
+2024, pp. 2355-2359. <a href="https://doi.org/10.1109/BigData62323.2024.10825996">Link.</a> 
+<p align="justify"> 3. MJ Mokarrama, H Alhoori. Quantifying the Relevance of Youth Research Cited in the US Policy Documents.
+<i>2024 IEEE International Conference on Big Data (BigData)</i>, Washington, DC, USA, 2024, pp. 5271-5280. <a href="https://doi.org/10.1109/BigData62323.2024.10825004">Link.</a> </p>
+<p align="justify"> 4. MJ Mokarrama, S Khatun, MS Arefin. A content-based recommender system for choosing universities. <i>Turkish
+Journal of Electrical Engineering & Computer Sciences</i>, vol. 28 (4), 2128-2142, 2020. <a href="https://doi.org/10.3906/elk-1911-37">Link.</a> </p>
+<p align="justify"> 5. MJ Mokarrama, MS Arefin. RSF: A recommendation system for farmers. <i>IEEE Region 10 Humanitarian
+Technology Conference (R10-HTC)</i>, 843-850, 2017, Dhaka, Bangladesh. <a href="https://doi.org/10.1109/R10-HTC.2017.8289086">Link.</a> </p>
+<p align="justify"> 6. AN Shihab, MJ Mokarrama,R Karim, S Khatun, MS Arefin. An IoT-Based Heart Disease Detection System
 Using RNN. <i>International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 535-545, 2020,
-Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 49).</p>
-6. <p align="justify"> A Islam, MJ Mokarrama, MS Arefin, R Karim. Developing a Framework to Identify Potential Firms for Job
+Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_49">Link.</a> </p>
+<p align="justify"> 7. A Islam, MJ Mokarrama, MS Arefin, R Karim. Developing a Framework to Identify Potential Firms for Job
 Assignment.<i> International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 584-593, 2020,
-Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 53).</p>
-7. <p align="justify"> J Ferdows, S Khatun, MJ Mokarrama, MS Arefin. A Framework for Checking Plagiarized Contents in Programs
+Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_53">Link.</a> </p>
+<p align="justify"> 8. J Ferdows, S Khatun, MJ Mokarrama, MS Arefin. A Framework for Checking Plagiarized Contents in Programs
 Submitted at Online Judging Systems.<i> International Conference on Image Processing and Capsule Networks</i>, vol.
-1200, 546-560, 2020, Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 50).</p>
-8. <p align="justify"> MM Islam, MS Arefin, S Khatun, MJ Mokarrama, AM Mahi. Developing an IoT-Based Water Pollution
+1200, 546-560, 2020, Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_50">Link.</a> </p>
+<p align="justify"> 9. MM Islam, MS Arefin, S Khatun, MJ Mokarrama, AM Mahi. Developing an IoT-Based Water Pollution
 Monitoring System.<i> International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 561-573,
-2020, Bangkok, Thailand. [Link](https://doi.org/10.1007/978-3-030-51859-2 51). </p>
-   
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+2020, Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2 51">Link.</a> </p>
 
 ## Academic Services
 - **Reviewer**: ACL SDProc, IC2S2, COLING, WebSci, International Journal on Digital Libraries, The Journal of Supercomputing (_2024 - 2025_).
@@ -90,12 +89,14 @@ Monitoring System.<i> International Conference on Image Processing and Capsule N
 - **Mentor**: Q3 1:1 Mentoring Program (July 2022 - September 2022).
 
 ## Latest News...
-- <p align="justify"> March 28, 2024: Presented a research topic on “LLMs as Judges,” a trending subject in the field of large language models in [NIU AI/ML Workshop](https://www.niuai.org/home). Check out the [Video!](https://www.youtube.com/watch?v=lTf_vU7R2jM) </p>
+- <p align="justify"> March 28, 2024: Presented a research topic on “LLMs as Judges,” a trending subject in the field of large language models in <a href="https://www.niuai.org/home">NIU AI/ML Workshop</a>. Check out the <a href="https://www.youtube.com/watch?v=lTf_vU7R2jM">Video</a> </p>
+- Thrilled to share that both of my research presented in IEEE Big Data 2024 has been featured in a Overton blog! Check it out <a href="https://www.linkedin.com/posts/activity-7308600879195009028-z8VF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABw9XWABWMf7EZjsnuAK9HsHmXrVwMdjswE">here</a>!  
 - Conducted a session on _Text Analysis_ in JCDL'24! 
-- <p align="justify"> October 19, 2024: Our paper 'Quantifying the Relevance of Youth Research Cited in the US Policy Documents”, 2024 IEEE International Conference on Big Data (BigData), co-authored by Dr. Hamed Alhoori, has been accepted for presentation as a **full paper** in the 2024 IEEE International Conference on Big Data (BigData'24). [Link](https://doi.org/10.1109/BigData62323.2024.10825004) </p>
-- <p align="justify"> October 15, 2024: Our paper 'Examining the Representation of Youth in the US Policy Documents through the Lens of Research', co-authored by Abdul Rahman Shaikh, and Dr. Hamed Alhoori, has been accepted for presentation as a **short paper** in the _Industry Track_ in 2024 IEEE International Conference on Big Data (BigData'24). [Link](https://doi.org/10.1109/BigData62323.2024.10825996) </p>
-- <p align="justify"> September 25, 2024: Our paper 'Building an Explainable Policy Citation Prediction Model on Textual Features of the Research Articles', co-authored by my supervisor Dr. Hamed Alhoori, has been accepted for presentation in the ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL'24). [Link](https://doi.org/10.1145/3677389.3702603) </p>
+- <p align="justify"> October 19, 2024: Our paper 'Quantifying the Relevance of Youth Research Cited in the US Policy Documents”, 2024 IEEE International Conference on Big Data (BigData), co-authored by Dr. Hamed Alhoori, has been accepted for presentation as a **full paper** in the 2024 IEEE International Conference on Big Data (BigData'24). <a href="https://doi.org/10.1109/BigData62323.2024.10825004">Link.</a> </p>
+- <p align="justify"> October 15, 2024: Our paper 'Examining the Representation of Youth in the US Policy Documents through the Lens of Research', co-authored by Abdul Rahman Shaikh, and Dr. Hamed Alhoori, has been accepted for presentation as a **short paper** in the _Industry Track_ in 2024 IEEE International Conference on Big Data (BigData'24). <a href="https://doi.org/10.1109/BigData62323.2024.10825996">Link.</a> </p>
+- <p align="justify"> September 25, 2024: Our paper 'Building an Explainable Policy Citation Prediction Model on Textual Features of the Research Articles', co-authored by my supervisor Dr. Hamed Alhoori, has been accepted for presentation in the ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL'24).<a href="https://doi.org/10.1145/3677389.3702603">Link.</a> </p>
 - <p align="justify"> April 26, 2024: Another work, "Are Research Articles Cited in Relevant Policy Documents? A Quantitative Analysis," was accepted as a contributed talk at the International Conference on the Science of Science and Innovation (ICSSI'24). Washington, DC, is calling! </p>
 - <p align="justify"> April 18, 2024: Our work, "Examining the Representation of Youth in the US Policy Documents through the Lens of Research," was accepted as a contributed talk at the 10th International Conference on Computational Social Science (IC2S2'24). Excited to be in Philly! </p>
-  
- [Data Science Blog](https://medium.com/@shawhin)
+
+📧 Email: [mokarrama.datalab@gmail.com](mailto:mokarrama.datalab@gmail.com)\
+🔗 LinkedIn: [Miftahul Jannat Mokarrama](https://www.linkedin.com/in/miftahul-jannat-mokarrama)
