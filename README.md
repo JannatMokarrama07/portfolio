@@ -35,9 +35,7 @@ My long-term goal is to work to reduce the gap between researchers and policymak
 - Faculty Advisor @ _PCIU Computer Club_.
 - Co-chair @ Web and Media Committee, ICSDTIR-2021.
 - Worked in several committees responsible for organizing seminars, preparing workloads, scheduling exam routines, etc. for the department.
-
-- 
-
+  
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
