@@ -38,30 +38,30 @@ My long-term goal is to work to reduce the gap between researchers and policymak
 
 ## Talks
 - [LLMs as Judges](https://www.youtube.com/watch?v=lTf_vU7R2jM) - NIU AI/ML Workshop, Spring 2025.
-- Are Research Articles Cited in Relevant Policy Documents? A Quantitative Analysis - ICSSI'24, National Academy of Science, Washington, D. C.
+- Are Research Articles Cited in Relevant Policy Documents? A Quantitative Analysis - <a href="https://icssi.org/">ICSSI'24</a>, National Academy of Science, Washington, D. C.
 
 ## Publications
-<p align="justify"> 1. MJ Mokarrama, H Alhoori. Building an Interpretable Policy Citation Prediction Model on Textual Features of
+<p align="justify"> 1. <b>MJ Mokarrama</b>, H Alhoori. Building an Interpretable Policy Citation Prediction Model on Textual Features of
 the Research Articles. <i>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</i>, Dec 16-20, 2024, Hong Kong. <a href="https://doi.org/10.1145/3677389.3702603">Link.</a> </p>
-<p align="justify"> 2. MJ Mokarrama, AR Shaikh, H Alhoori. Examining the Representation of Youth in the US Policy Documents
+<p align="justify"> 2. <b>MJ Mokarrama</b>, AR Shaikh, H Alhoori. Examining the Representation of Youth in the US Policy Documents
 through the Lens of Research. <i>2024 IEEE International Conference on Big Data(BigData)</i>, Washington, DC, USA,
 2024, pp. 2355-2359. <a href="https://doi.org/10.1109/BigData62323.2024.10825996">Link.</a> </p>
-<p align="justify"> 3. MJ Mokarrama, H Alhoori. Quantifying the Relevance of Youth Research Cited in the US Policy Documents.
+<p align="justify"> 3. <b>MJ Mokarrama</b>, H Alhoori. Quantifying the Relevance of Youth Research Cited in the US Policy Documents.
 <i>2024 IEEE International Conference on Big Data (BigData)</i>, Washington, DC, USA, 2024, pp. 5271-5280. <a href="https://doi.org/10.1109/BigData62323.2024.10825004">Link.</a> </p>
-<p align="justify"> 4. MJ Mokarrama, S Khatun, MS Arefin. A content-based recommender system for choosing universities. <i>Turkish
+<p align="justify"> 4. <b>MJ Mokarrama</b>, S Khatun, MS Arefin. A content-based recommender system for choosing universities. <i>Turkish
 Journal of Electrical Engineering & Computer Sciences</i>, vol. 28 (4), 2128-2142, 2020. <a href="https://doi.org/10.3906/elk-1911-37">Link.</a> </p>
-<p align="justify"> 5. MJ Mokarrama, MS Arefin. RSF: A recommendation system for farmers. <i>IEEE Region 10 Humanitarian
+<p align="justify"> 5. <b>MJ Mokarrama</b>, MS Arefin. RSF: A recommendation system for farmers. <i>IEEE Region 10 Humanitarian
 Technology Conference (R10-HTC)</i>, 843-850, 2017, Dhaka, Bangladesh. <a href="https://doi.org/10.1109/R10-HTC.2017.8289086">Link.</a> </p>
-<p align="justify"> 6. AN Shihab, MJ Mokarrama,R Karim, S Khatun, MS Arefin. An IoT-Based Heart Disease Detection System
+<p align="justify"> 6. AN Shihab, <b>MJ Mokarrama</b>,R Karim, S Khatun, MS Arefin. An IoT-Based Heart Disease Detection System
 Using RNN. <i>International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 535-545, 2020,
 Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_49">Link.</a> </p>
-<p align="justify"> 7. A Islam, MJ Mokarrama, MS Arefin, R Karim. Developing a Framework to Identify Potential Firms for Job
+<p align="justify"> 7. A Islam, <b>MJ Mokarrama</b>, MS Arefin, R Karim. Developing a Framework to Identify Potential Firms for Job
 Assignment.<i> International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 584-593, 2020,
 Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_53">Link.</a> </p>
-<p align="justify"> 8. J Ferdows, S Khatun, MJ Mokarrama, MS Arefin. A Framework for Checking Plagiarized Contents in Programs
+<p align="justify"> 8. J Ferdows, S Khatun, <b>MJ Mokarrama</b>, MS Arefin. A Framework for Checking Plagiarized Contents in Programs
 Submitted at Online Judging Systems.<i> International Conference on Image Processing and Capsule Networks</i>, vol.
 1200, 546-560, 2020, Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_50">Link.</a> </p>
-<p align="justify"> 9. MM Islam, MS Arefin, S Khatun, MJ Mokarrama, AM Mahi. Developing an IoT-Based Water Pollution
+<p align="justify"> 9. MM Islam, MS Arefin, S Khatun, <b>MJ Mokarrama</b>, AM Mahi. Developing an IoT-Based Water Pollution
 Monitoring System.<i> International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 561-573,
 2020, Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_51">Link.</a> </p>
 
