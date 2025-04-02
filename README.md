@@ -1,6 +1,6 @@
 # Hi!
 <p align="justify">
-This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a>. Currently, I am working at the DATA Lab with [Dr. Hamed Alhoori](https://alhoori.github.io/). My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
+This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a>. Currently, I am working at the DATA Lab with <a href="https://alhoori.github.io/">Dr. Hamed Alhoori</a>. My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
 
 My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art <b><i>Natural Language Processing(NLP) Techniques</i></b>, <b><i>Machine Learning Algorithms</i></b>, <b><i>Large Language Models (LLMs)</i></b>, and <b><i>Statistical Methods</i></b>. </p>
 
@@ -32,9 +32,9 @@ My long-term goal is to work to reduce the gap between researchers and policymak
   
 **Lecturer @ Department of Computer Science and Engineering, Port City International University (PCIU), Chittagong, Bangladesh (_July 2017 - July 2021_)**
 - Designed course materials, syllabi, and lesson plans and delivered lectures, tutorials, and laboratory sessions. 
-- Faculty Advisor @ _PCIU Computer Club.
-- Co-chair @ Web and Media Committee, ICSDTIR-2021.
-- Worked in several committees responsible for organizing seminars, preparing workloads, scheduling exam routines, etc. for the department.
+- Faculty Advisor @ _PCIU Computer Club_.
+- Co-chair @ Web and Media Committee, _ICSDTIR-2021_.
+- Organized seminars, prepared workloads, scheduled exam routines, etc. for the Department.
   
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -60,7 +60,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 the Research Articles. <i>ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)</i>, Dec 16-20, 2024, Hong Kong. <a href="https://doi.org/10.1145/3677389.3702603">Link.</a> </p>
 <p align="justify"> 2. MJ Mokarrama, AR Shaikh, H Alhoori. Examining the Representation of Youth in the US Policy Documents
 through the Lens of Research. <i>2024 IEEE International Conference on Big Data(BigData)</i>, Washington, DC, USA,
-2024, pp. 2355-2359. <a href="https://doi.org/10.1109/BigData62323.2024.10825996">Link.</a> 
+2024, pp. 2355-2359. <a href="https://doi.org/10.1109/BigData62323.2024.10825996">Link.</a> </p>
 <p align="justify"> 3. MJ Mokarrama, H Alhoori. Quantifying the Relevance of Youth Research Cited in the US Policy Documents.
 <i>2024 IEEE International Conference on Big Data (BigData)</i>, Washington, DC, USA, 2024, pp. 5271-5280. <a href="https://doi.org/10.1109/BigData62323.2024.10825004">Link.</a> </p>
 <p align="justify"> 4. MJ Mokarrama, S Khatun, MS Arefin. A content-based recommender system for choosing universities. <i>Turkish
@@ -78,9 +78,10 @@ Submitted at Online Judging Systems.<i> International Conference on Image Proces
 1200, 546-560, 2020, Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_50">Link.</a> </p>
 <p align="justify"> 9. MM Islam, MS Arefin, S Khatun, MJ Mokarrama, AM Mahi. Developing an IoT-Based Water Pollution
 Monitoring System.<i> International Conference on Image Processing and Capsule Networks</i>, vol. 1200, 561-573,
-2020, Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2 51">Link.</a> </p>
+2020, Bangkok, Thailand. <a href="https://doi.org/10.1007/978-3-030-51859-2_51">Link.</a> </p>
 
 ## Academic Services
+
 - **Reviewer**: ACL SDProc, IC2S2, COLING, WebSci, International Journal on Digital Libraries, The Journal of Supercomputing (_2024 - 2025_).
 - **Judge**: Engineering discipline, NIU Conference on Undergraduate Research & Engagement (_2024, 2025_).
 - **Research Mentor**: Undergraduate Research Rookie, DATA Lab, NIU (_August 2022 -  May 2023_).
