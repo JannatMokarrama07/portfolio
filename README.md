@@ -2,7 +2,7 @@
 <p align="justify">
 This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a>. Currently, I am working at the DATA Lab with [Dr. Hamed Alhoori](https://alhoori.github.io/). My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
 
-My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art **_Natural Language Processing(NLP) Techniques_**, **_Machine Learning Algorithms_**, **_Large Language Models (LLMs)_**, and **_Statistical Methods_**. </p>
+My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art <b><i>Natural Language Processing(NLP) Techniques</i></b>, <b><i>Machine Learning Algorithms</i></b>, <b><i>Large Language Models (LLMs)</i></b>, and <b><i>Statistical Methods</i></b>. </p>
 
 ## Technical Skills
 
@@ -27,12 +27,12 @@ My long-term goal is to work to reduce the gap between researchers and policymak
   
 **Graduate Research Assistant @ Northern Illinois University (_Spring 2024 - Fall 2024_, _Summer 2022_, _Summer 2023_)**
 - Drafted, published, and presented research papers in several conferences on youth research uptakes in the US policy.
-- <p align="justify"> Assisted in investigating project use-cases, modeling research, and organizing writing for a grant proposal to **NSF** on research policy gaps. </p>
+- Assisted in investigating project use-cases, modeling research, and organizing writing for a grant proposal to <b>NSF</b> on research policy gaps.
 - Increased model performance from 50% to 75% utilizing several readability and lexical diversity metrics for classifying policy citations.
   
 **Lecturer @ Department of Computer Science and Engineering, Port City International University (PCIU), Chittagong, Bangladesh (_July 2017 - July 2021_)**
-- <p align="justify"> Designed course materials, syllabi, and lesson plans and delivered lectures, tutorials, and laboratory sessions. </p>
-- Faculty Advisor @ _PCIU Computer Club_.
+- Designed course materials, syllabi, and lesson plans and delivered lectures, tutorials, and laboratory sessions. 
+- Faculty Advisor @ _PCIU Computer Club.
 - Co-chair @ Web and Media Committee, ICSDTIR-2021.
 - Worked in several committees responsible for organizing seminars, preparing workloads, scheduling exam routines, etc. for the department.
   
