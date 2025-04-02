@@ -1,4 +1,4 @@
-# Hi, 
+# Hi!
 
 This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at Northern Illinois University. Currently, I am working at the DATA Lab with Dr. Hamed Alhoori. My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
 
@@ -7,18 +7,25 @@ My long-term goal is to work to reduce the gap between researchers and policymak
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Computer Science | Northern Illinois University (_August 2021 - present_)							
+- M.Sc., Computer Science	| Northern Illinois University (_December 2023_)	 			        		
+- B.Sc.(Engg.), Computer Science & Engineering |  Chittagong University of Engineering and Technology (CUET) (_March 2017_)
+Graduate Research Assistant: Northern Illinois University (Spring 2024 - Present, Summer 2022 and 2023)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Professional Experience 
+**Graduate Teaching Assistant @ Northern Illinois University (_January 2025 - present_, _August 2021 - December 2023_)**
+- Graded weekly quizzes and assignments, evaluated term-exam answer scripts/projects of 500+ students.
+- Held office hours to mentor students in better understanding the topics.
+- Provided one-to-one constructive feedback in-person/online as per their performance.
+**Graduate Research Assistant @ Northern Illinois University (_Spring 2024 - Fall 2024_, _Summer 2022_, _Summer 2023_)**
+- Drafted, published, and presented research papers in several conferences on youth research uptakes in the US policy.
+- Assisted in investigating project use-cases, modeling research, and organizing writing for a grant proposal to **NSF** on research policy gaps.
+- Increased model performance from 50% to 75% utilizing several readability and lexical diversity metrics for classifying policy citations.
+**Lecturer @ Department of Computer Science and Engineering, Port City International University (PCIU), Chittagong, Bangladesh (_July 2017 - July 2021_)**
+- Designed course materials, syllabi, and lesson plans and delivered lectures, tutorials, and laboratory sessions.
+- Faculty Advisor @ _PCIU Computer Club_
+- Co-chair @ Web and Media Committee, ICSDTIR-2021
+- Worked in several committees responsible for organizing seminars, preparing workloads, scheduling exam routines, etc. for the department
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
