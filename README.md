@@ -18,7 +18,6 @@ My long-term goal is to work to reduce the gap between researchers and policymak
 - Ph.D., Computer Science | Northern Illinois University (_August 2021 - present_)							
 - M.Sc., Computer Science	| Northern Illinois University (_December 2023_)	 			        		
 - B.Sc.(Engg.), Computer Science & Engineering |  Chittagong University of Engineering and Technology (CUET) (_March 2017_)
-Graduate Research Assistant: Northern Illinois University (Spring 2024 - Present, Summer 2022 and 2023)
 
 ## Professional Experience 
 **Graduate Teaching Assistant @ Northern Illinois University (_January 2025 - present_, _August 2021 - December 2023_)**
