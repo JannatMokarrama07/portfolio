@@ -1,10 +1,18 @@
 # Hi!
 
-This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at Northern Illinois University. Currently, I am working at the DATA Lab with Dr. Hamed Alhoori. My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
+This is Miftahul Jannat Mokarrama, a Computer Science Ph.D. student at Northern Illinois University. Currently, I am working at the DATA Lab with [Dr. Hamed Alhoori](https://alhoori.github.io/). My research focus falls in several exciting and ever-growing fields of Data Science and Science of Science, especially in the intersections of data mining & analytics, machine learning, computational social science, and recommender systems. 
 
-My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art Natural Language Processing(NLP) techniques, Machine Learning algorithms, Large Language Models (LLMs), and statistical methods. 
+My long-term goal is to work to reduce the gap between researchers and policymakers for increased societal research impact. Therefore, I am focusing on building my caliber both in the underlying theories and practical use cases associated with this domain by modeling real-world (linear/non-linear) data, exploring state-of-the-art **Natural Language Processing(NLP) Techniques**, **Machine Learning Algorithms**, **Large Language Models (LLMs)**, and **Statistical Methods**. 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Technical Skills
+
+ #### Programming Languages: Python, SQL, C/C++, XML, PHP, HTML/CSS, Java-Script, Java, LATEX, Prolog
+
+ #### Libraries/Frameworks: Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Gensim, Spacy, NLTK, Keras, PyTorch, TensorFlow
+
+ #### Tools/IDEs: Git/GitHub, Unix Shell, Notebooks (Jupyter/Observable), PyCharm, CodeBlocks/Dev C++/Netbeans, Android Studio, SWI-Prolog, Tableau
+
+ #### Database: MySQL, PostgreSQL, SQLite, DuckDB
 
 ## Education
 - Ph.D., Computer Science | Northern Illinois University (_August 2021 - present_)							
@@ -28,6 +36,8 @@ Graduate Research Assistant: Northern Illinois University (Spring 2024 - Present
 - Faculty Advisor @ _PCIU Computer Club_
 - Co-chair @ Web and Media Committee, ICSDTIR-2021
 - Worked in several committees responsible for organizing seminars, preparing workloads, scheduling exam routines, etc. for the department
+
+- 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
