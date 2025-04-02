@@ -89,6 +89,23 @@ Monitoring System.<i> International Conference on Image Processing and Capsule N
 - **Student Volunteer** (Online): RecSys 2022 (September 18-23, 2022).
 - **Mentor**: Q3 1:1 Mentoring Program (July 2022 - September 2022).
 
+## Leadership
+- **Program Committee Member**: WebSci’25, New Jersey, USA (2025).
+- **Session Chair** (Text Analysis): JCDL’24, Hong Kong (Dec. 2024).
+- **Graduate Member**: Student Advisory Board, Department of CS, NIU (Aug. 2022 - Dec. 2023).
+- **Co-Chair**: Web and Media Sub-Committee, ICSDTIR-2021, Chattogram, Bangladesh (Dec. 2020 - Mar. 2021).
+- **Faculty Coordinator**: PCIU Computer Club, Chattogram, Bangladesh (Jul. 2019 - Jul. 2021).
+
+## Honors & Awards
+
+- **NSF Travel Grant Award**: IEEE BigData’24 (Nov 2024).
+- **SIGIR Travel Grant Award**: ACM/IEEE JCDL’24 (Oct 2024).
+- **Graduate Student Travel Grant**: Northern Illinois University (2024).
+- **Grace Hopper Celebration Student Scholarship (GHC-22)**: AnitaB.org (Jun 2022).
+- **1st Runner-Up; National Girls Programming Contest (NGPC)**: Dhaka, Bangladesh (Nov 2015).
+- **Best Female Team**: Inter-University Programming Contest, Chittagong region, Bangladesh (2014, 2015).
+- **Govt. Merit Scholarship**: Ministry of Education, Bangladesh (2007-2017).
+
 ## Latest News...
 - <p align="justify"> March 28, 2024: Presented a research topic on “<b>LLMs as Judges</b>,” a trending subject in the field of large language models in <a href="https://www.niuai.org/home">NIU AI/ML Workshop</a>. Check out the <a href="https://www.youtube.com/watch?v=lTf_vU7R2jM">Video</a> </p>
 - <p align="justify"> Thrilled to share that both of my research presented in IEEE Big Data 2024 has been <b>featured in a Overton blog!</b> Check it out <a href="https://www.linkedin.com/posts/activity-7308600879195009028-z8VF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABw9XWABWMf7EZjsnuAK9HsHmXrVwMdjswE">here</a>!  </p>
