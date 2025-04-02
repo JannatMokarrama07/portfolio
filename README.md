@@ -32,9 +32,9 @@ My long-term goal is to work to reduce the gap between researchers and policymak
   
 **Lecturer @ Department of Computer Science and Engineering, Port City International University (PCIU), Chittagong, Bangladesh (_July 2017 - July 2021_)**
 - Designed course materials, syllabi, and lesson plans and delivered lectures, tutorials, and laboratory sessions.
-- Faculty Advisor @ _PCIU Computer Club_
-- Co-chair @ Web and Media Committee, ICSDTIR-2021
-- Worked in several committees responsible for organizing seminars, preparing workloads, scheduling exam routines, etc. for the department
+- Faculty Advisor @ _PCIU Computer Club_.
+- Co-chair @ Web and Media Committee, ICSDTIR-2021.
+- Worked in several committees responsible for organizing seminars, preparing workloads, scheduling exam routines, etc. for the department.
 
 - 
 
